@@ -1,0 +1,22 @@
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\bin\Debug\LR3RPM.exe.config
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\bin\Debug\LR3RPM.exe
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\bin\Debug\LR3RPM.pdb
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.AssemblyReference.cache
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.Form1.resources
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.Properties.Resources.resources
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.GenerateResource.cache
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.CoreCompileInputs.cache
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.exe
+C:\Users\NightOn\Desktop\LR3RPM\LR3RPM\obj\Debug\LR3RPM.pdb
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\bin\Debug\LR3RPM.exe.config
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\bin\Debug\LR3RPM.exe
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\bin\Debug\LR3RPM.pdb
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.AssemblyReference.cache
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.Form1.resources
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.Properties.Resources.resources
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.GenerateResource.cache
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.csproj.CoreCompileInputs.cache
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.exe
+C:\Users\anna_\Desktop\рпм 3\LR3RPM\LR3RPM\obj\Debug\LR3RPM.pdb
